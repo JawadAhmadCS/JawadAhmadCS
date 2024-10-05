@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
-<h4 align="center">I am a student from Pakistan studying BS in Computer Science. This repository contains projects I've worked on in machine learning, and programming.Each project shows my skills and what I've learned so far. </br></br> Feel free to explore my projects, and I welcome any feedback!</h4>
+<h4 align="center">I am a student from Pakistan studying BS in Computer Science. This repository includes projects I've worked on in machine learning and programming, reflecting my skills and progress.
+
+ </br></br> Feel free to explore my projects, and I welcome any feedback!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadahmadcs&label=Profile%20views&color=0e75b6&style=flat" alt="jawadahmadcs" /> </p>
 
