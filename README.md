@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
-<h3 align="center">I am a student from Pakistan</h3>
+<h4 align="center">I am a student from Pakistan studying BS in Computer Science. This repository contains projects I've worked on in machine learning, and programming.Each project shows my skills and what I've learned so far. </br></br> Feel free to explore my projects, and I welcome any feedback!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadahmadcs&label=Profile%20views&color=0e75b6&style=flat" alt="jawadahmadcs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadahmadcs" alt="jawadahmadcs" /></a> </p>
 
-- 🎓 Currently doing BS in **Computer Science**
+- 🔭 I'm currently working on **Smart Resource Allocator for Operating Systems**
 
 - 📚 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 💻 All of my projects are available [here](https://github.com/JawadAhmadCS/JawadAhmadCS/blob/main/README.md)
 
-- 📝 I regularly write articles on [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 📝 I regularly write articles [here](https://github.com/JawadAhmadCS/JawadAhmadCS/blob/main/README.md)
+
+- 📄 Know about my experiences on my [resume](https://github.com/JawadAhmadCS/JawadAhmadCS/blob/main/README.md)
 
 - 📫 If you have any questions or feedback, feel free to reach out! **mjawadahmad41@gmail.com**
-
-- 📄 Know about my experiences [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
