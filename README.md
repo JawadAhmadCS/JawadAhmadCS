@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawad</h1>
+
 <h4 align="center">I am a student from Pakistan studying BS in Computer Science. These repositories includes projects I've worked on in machine learning and programming, reflecting my skills and progress.
+
 
  </br></br> Feel free to explore my projects, and I welcome any feedback!</h4>
 
@@ -23,6 +25,8 @@ currently disable
 -  Know about my experiences on my [resume.](https://github.com/JawadAhmadCS/JawadAhmadCS/blob/main/README.md)
 
 -  If you have any questions or feedback, feel free to reach out! **thejawadcontact@gmail.com**
+  
+- 💬 Ask me about anything [here](https://github.com/JawadAhmadCS/JawadAhmadCS/issues)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
