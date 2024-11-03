@@ -12,7 +12,7 @@ currently disable
 
 </br>
 
--  I'm currently working on **Smart Resource Allocator for Operating Systems**
+-  I'm currently working on **Jack an Ai Assistant**
 
 -  I’m currently learning **Machine Learning**
 
