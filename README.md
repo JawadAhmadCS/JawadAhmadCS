@@ -14,7 +14,7 @@ currently disable
 
 </br>
 
--  I'm currently working on **Jack an Ai Assistant**
+-  I'm currently working on **Lexa an Ai Assistant**
 
 -  I’m currently learning **Machine Learning**
 
@@ -24,7 +24,7 @@ currently disable
 
 -  Know about my experiences on my [resume.](https://github.com/JawadAhmadCS/JawadAhmadCS/blob/main/README.md)
 
--  If you have any questions or feedback, feel free to reach out! **thejawadcontact@gmail.com**
+-  If you have any questions or feedback, feel free to reach out! **help.jawad@gmail.com**
   
 - 💬 Ask me about anything [here](https://github.com/JawadAhmadCS/JawadAhmadCS/issues)
 
