@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawad</h1>
 
 <h4 align="center">I am a student from Pakistan studying BS in Computer Science. These repositories include projects I've worked on in machine learning and programming, reflecting my skills and progress.</h4>
-<br>
+
 <h4 align="center">Feel free to explore my projects, and I welcome any feedback!</h4>
 
 <!-- currently disabled
