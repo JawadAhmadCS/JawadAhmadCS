@@ -23,6 +23,8 @@
 ## 📞 Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jawadahmadcs/) , open an issue, or [Email me](mailto:help.jawad@gmail.com) if you have questions or suggestions.
 
+📧 help.jawad@gmail.com
+
 ## 🌟 Feedback
 If you like this project or have any suggestions, feel free to share your thoughts on my [LinkedIn](https://www.linkedin.com/in/jawadahmadcs/) or open an issue on [GitHub](https://github.com/JawadAhmadCS).
 
