@@ -15,7 +15,7 @@
 - 📚 I’m currently learning **Machine Learning**  
 - 📂 All of my projects are available [here](https://github.com/JawadAhmadCS?tab=repositories)  
 - ✍️ I regularly write articles [here](https://jawadahmadcs.blogspot.com)  
-- 📝 Know about my experiences on my [resume](https://github.com/JawadAhmadCS/Machine-Learning-Models/issues/new)
+- 📝 Know about my experiences on my [resume](https://github.com/user-attachments/assets/894278b4-f2a5-4662-873c-70c2ccfc0418)
 
 ---
 
