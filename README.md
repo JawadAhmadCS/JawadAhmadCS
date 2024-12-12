@@ -13,7 +13,7 @@
 
 - 🌱 I'm currently working on **Lexa, an AI Assistant**  
 - 📚 I’m currently learning **Machine Learning**
-- 📂 Explore my [Project](https://github.com/JawadAhmadCS?tab=repositories) in AI, software development, and more. 
+- 📂 Explore my [Project](https://github.com/JawadAhmadCS?tab=repositories) in AI, Programming, and more. 
 - ✍️ I regularly write and share my thoughts on [blogs](https://jawadahmadcs.blogspot.com).
 - 📝 Know about my experiences on my [resume](https://github.com/user-attachments/assets/894278b4-f2a5-4662-873c-70c2ccfc0418).
 - 🔗 Visit my [portfolio](https://jawadahmadcs.github.io/Portfolio).
