@@ -14,7 +14,7 @@
 
 🔹 💻 **Aspiring AI Engineer | Passionate About ML & AI**  
 🔹 🖋️ I love sharing my knowledge! Read my latest insights on **[My Blog](https://jawadahmadcs.blogspot.com)**.  
-🔹 📄 Curious about my journey? Check out my **[Resume](https://github.com/user-attachments/assets/894278b4-f2a5-4662-873c-70c2ccfc0418)**.  
+🔹 📄 Curious about my journey? Check out my **[Resume](https://jawadahmadcs-resume.netlify.app/)**.  
 🔹 🌐 Explore my work and projects on my **[Portfolio](https://jawadahmadcs.vercel.app/)**.  
 
 ---
