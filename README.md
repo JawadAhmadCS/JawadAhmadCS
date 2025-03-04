@@ -32,8 +32,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
-|---|---|
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600)
+</div>
+
+
+<!--|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|---|---|-->
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=midnight-purple)](https://github.com/jawadahmadcs)
