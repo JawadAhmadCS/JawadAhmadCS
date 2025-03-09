@@ -27,6 +27,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,12 +36,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600)
-</div>
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600)
+</div>-->
 
 
-<!--|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
-|---|---|-->
+|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|---|---|
 
 <div align="center">
 
