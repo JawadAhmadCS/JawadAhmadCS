@@ -55,9 +55,7 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Lexa-AI-Assistant&show_icons=true&theme=great-gatsby" > 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Traffic-Managment-System&show_icons=true&theme=great-gatsby" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=File-Encryption-Decryption&show_icons=true&theme=great-gatsby" > 
+  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=E-Commerce-Customer-Categorization-and-Analyzer&show_icons=true&theme=great-gatsby" > 
   
   
