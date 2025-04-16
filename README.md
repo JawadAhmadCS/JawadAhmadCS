@@ -42,8 +42,8 @@
 </div>-->
 
 
-<!--|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
-|---|---| -->
+|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|---|---| 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=midnight-purple)](https://github.com/jawadahmadcs)
@@ -61,9 +61,6 @@
   
   
 </di>
-<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>
-<div align="center">
-
 ---
 
 ### 🏆 GitHub Trophies
