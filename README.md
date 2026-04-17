@@ -83,7 +83,7 @@ Hire        : On Upwork - Available Now
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=algolia&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=jawadahmadcs&theme=dracula&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -314,7 +314,5 @@ Hire        : On Upwork - Available Now
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=130&section=footer"/>
 
 </div>
-
-
 
 
