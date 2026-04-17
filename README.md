@@ -1,51 +1,46 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jawad%20Ahmad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- Top Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1117,70:1a1a2e,100:16213e&height=220&section=header&text=M%20Jawad%20Ahmad&fontSize=65&fontColor=00d4ff&fontAlignY=38&desc=AI%20Developer%20%7C%20RAG%20Systems%20%7C%20Voice%20AI%20%7C%20LLM%20Engineer&descAlignY=60&descSize=17&animation=fadeIn&fontAlignX=50"/>
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+Dev+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Building+RAG+Systems+%26+LLM+Pipelines+%F0%9F%A7%A0;Voice+AI+%7C+TTS+%26+STT+with+Whisper+%2B+ElevenLabs+%F0%9F%8E%99%EF%B8%8F;AI+Agents+%7C+LangChain+%7C+FAISS+%7C+ChromaDB+%F0%9F%94%8D;End-to-End+AI+App+Developer+%F0%9F%9A%80;From+Concept+to+Deployment+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=jawadahmadcs&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/jawadahmadcs)
-[![GitHub followers](https://img.shields.io/github/followers/jawadahmadcs?label=Followers&style=flat-square&color=7c3aed)](https://github.com/jawadahmadcs?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/JawadAhmadCS)
+[![Profile Views](https://komarev.com/ghpvc/?username=jawadahmadcs&label=Profile+Views&color=00d4ff&style=flat-square)](https://github.com/jawadahmadcs)
+[![GitHub followers](https://img.shields.io/github/followers/jawadahmadcs?label=Followers&style=flat-square&color=00d4ff)](https://github.com/jawadahmadcs?tab=followers)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012e0840062d1bdc07)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class JawadAhmad:
-    def __init__(self):
-        self.name        = "Jawad Ahmad"
-        self.role        = "ML Engineer & CS Student"
-        self.location    = "Pakistan 🇵🇰"
-        self.education   = "BS Computer Science"
-        self.interests   = ["Machine Learning", "Deep Learning", "AI Systems", "Open Source"]
-        self.blog        = "https://jawadahmadcs.blogspot.com"
-        self.portfolio   = "https://jawadahmadcs.vercel.app"
-        self.contact     = "+923320606508 (WhatsApp)"
+```yaml
+Name        : M Jawad Ahmad
+Role        : AI Developer
+Location    : Pakistan 🇵🇰
+Education   : BS Computer Science
 
-    def currently(self):
-        return {
-            "learning"  : "LLMs, Transformers & MLOps",
-            "building"  : "AI-powered applications",
-            "reading"   : "Research papers on generative AI",
-            "open_to"   : "Collaborations & Internships"
-        }
+Specialties :
+  - RAG Systems (Retrieval-Augmented Generation)
+  - AI Voice Agents (Twilio + Whisper + ElevenLabs)
+  - LLM-powered Chatbots & Autonomous Agents
+  - Image AI & Stable Diffusion / LoRA Fine-tuning
+  - End-to-End AI App Development (FastAPI + Streamlit)
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+Experience  :
+  - 10Pearls           → Data Science Intern
+  - DevVerse IT        → AI Developer (RAG + Image AI)
+  - GAOTek Inc.        → AI Research Intern
+  - DeveloperHub Corp. → ML Intern (NLP + Vision)
 
-me = JawadAhmad()
-me.say_hi()
+Open To     : Freelance Projects, Collaborations, Full-time Roles
+Hire        : On Upwork  🟢 Available Now
 ```
 
 ---
@@ -54,11 +49,12 @@ me.say_hi()
 
 <div align="center">
 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012e0840062d1bdc07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawadahmadcs/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jawadahmadcs)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jawadahmadcs/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jawadahmadcs.blogspot.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jawadahmadcs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jawadahmadcs.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jawadahmadcs.blogspot.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jawadahmadcs/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923320606508)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/user-attachments/assets/69c0e059-60da-47b2-a9d6-f0eb043baf5a)
 
@@ -66,18 +62,110 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / LLM Systems
+- **RAG Pipelines** — PDFs, Docs, Notion, Websites
+- **LLM Chatbots** — GPT-4, Claude, Mistral, Llama
+- **AI Agents** — Autonomous multi-step task handlers
+- **Fine-tuning** — LoRA, PEFT on custom datasets
+
+</td>
+<td width="50%">
+
+### 🎙️ Voice & Multimodal
+- **Voice AI** — Whisper STT + ElevenLabs TTS
+- **Twilio Voice Agents** — AI phone-call bots
+- **Image AI** — Stable Diffusion, LoRA for fashion
+- **Multimodal Apps** — Vision + Language pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧱 Software Development
+- **Backend APIs** — FastAPI, Django REST Framework
+- **Web Apps** — Streamlit UIs, React frontends
+- **Database Integration** — PostgreSQL, MongoDB, MySQL
+- **Deployment** — Docker, Vercel, AWS, Heroku
+
+</td>
+<td width="50%">
+
+### 📊 Data & ML
+- **NLP Pipelines** — classification, NER, summarization
+- **ML Models** — training, evaluation, optimization
+- **Data Engineering** — cleaning, preprocessing, ETL
+- **Model Optimization** — quantization, inference tuning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Full Tech Stack
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧠 AI / LLM / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### 🎙️ Voice AI
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+### 🖼️ Image AI
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=for-the-badge&logo=stability-ai&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20Fine--tuning-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![Diffusers](https://img.shields.io/badge/Diffusers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🤖 ML / DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+
+### 🌐 Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📊 Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -86,24 +174,69 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
-### 🌐 Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+---
 
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🏢 Work Experience
+
+<table>
+<tr>
+<td width="50%">
+
+**📍 DevVerse IT Solutions**
+*AI Developer — RAG Systems & Image AI*
+- Built production RAG pipelines with LangChain + FAISS
+- Developed fashion AI image generators (Stable Diffusion + LoRA)
+- Integrated LLM APIs into client-facing applications
+
+</td>
+<td width="50%">
+
+**📍 10Pearls** *(Award-Winning Company)*
+*Data Science Intern*
+- Real-world data analysis and ML model development
+- Collaborated with senior engineers on AI product features
+- Gained experience in enterprise-grade AI workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📍 GAOTek Inc.**
+*AI Research Intern*
+- NLP research: transformers, embeddings, retrieval systems
+- Documented findings for product R&D teams
+- Explored state-of-the-art generative AI architectures
+
+</td>
+<td width="50%">
+
+**📍 DeveloperHub Corp.**
+*ML Intern — NLP & Computer Vision*
+- Built NLP text classification pipelines
+- Computer vision model training and evaluation
+- End-to-end model optimization and deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Industries I Serve
+
+<div align="center">
+
+| 🏭 Industry | 🤖 AI Solution |
+|---|---|
+| 👗 Fashion Tech | AI image generation, virtual try-on, LoRA styling |
+| 🛒 E-Commerce | Product recommendation engines, support chatbots |
+| 🏥 Healthcare | Medical Q&A bots, document intelligence |
+| 🎓 Education Tech | AI tutors, knowledge RAG systems |
+| 📞 Customer Support | Voice AI agents, 24/7 LLM chatbots |
+| ⚙️ SaaS & Automation | AI workflow pipelines, autonomous agents |
 
 </div>
 
@@ -113,12 +246,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=tokyonight&border_radius=12&border=7c3aed" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=dark&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border=30363d&border_radius=12" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=tokyonight&border_radius=12&border_color=7c3aed&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -128,17 +261,17 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=algolia&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadcs&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadcs&theme=react-dark&hide_border=true&radius=8&color=00d4ff&line=00d4ff&point=ff6b35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -148,33 +281,12 @@ me.say_hi()
 
 <div align="center">
 
-[![Lexa AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Lexa-AI-Assistant&theme=tokyonight&border_radius=12&border_color=7c3aed)](https://github.com/jawadahmadcs/Lexa-AI-Assistant)
-[![Traffic Management System](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Traffic-Managment-System&theme=tokyonight&border_radius=12&border_color=7c3aed)](https://github.com/jawadahmadcs/Traffic-Managment-System)
-[![File Encryption Decryption](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=File-Encryption-Decryption&theme=tokyonight&border_radius=12&border_color=7c3aed)](https://github.com/jawadahmadcs/File-Encryption-Decryption)
-[![E-Commerce Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=E-Commerce-Customer-Categorization-and-Analyzer&theme=tokyonight&border_radius=12&border_color=7c3aed)](https://github.com/jawadahmadcs/E-Commerce-Customer-Categorization-and-Analyzer)
+[![Lexa AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Lexa-AI-Assistant&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12)](https://github.com/jawadahmadcs/Lexa-AI-Assistant)
+[![Traffic Management System](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Traffic-Managment-System&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12)](https://github.com/jawadahmadcs/Traffic-Managment-System)
+[![File Encryption Decryption](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=File-Encryption-Decryption&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12)](https://github.com/jawadahmadcs/File-Encryption-Decryption)
+[![E-Commerce Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=E-Commerce-Customer-Categorization-and-Analyzer&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_color=30363d&border_radius=12)](https://github.com/jawadahmadcs/E-Commerce-Customer-Categorization-and-Analyzer)
 
 </div>
-
----
-
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updated via GitHub Actions — visit [my blog](https://jawadahmadcs.blogspot.com) for the latest posts!*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Goals — 2025
-
-```
-🎓  Complete BS Computer Science with excellence
-🤖  Master LLMs, RAG, and Transformer architectures
-🏗️   Build and deploy end-to-end ML pipelines
-📝  Publish 10+ technical blog posts
-🌍  Contribute to 5+ open source projects
-💼  Land a meaningful AI/ML internship or role
-```
 
 ---
 
@@ -192,11 +304,25 @@ me.say_hi()
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🟢 Hire Me on Upwork
+
+<div align="center">
+
+> **Looking for a reliable AI developer who delivers real results?**
+>
+> I've built RAG systems, voice agents, chatbots, and full AI pipelines for companies like **10Pearls**, **DevVerse**, and **GAOTek** — solutions that work in production, not just demos.
+>
+> [![Hire Me on Upwork](https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012e0840062d1bdc07)
 
 </div>
 
@@ -204,14 +330,14 @@ me.say_hi()
 
 <div align="center">
 
-### ☕ Let's Grab a Coffee & Build Something Awesome!
+### 🤝 Let's Build Something Intelligent Together!
 
-*"The best way to predict the future is to build it."*
+*"AI is not magic — it's engineering. Let's engineer yours right."*
 
 <br/>
 
-**If you found my work helpful, drop a ⭐ on my repos — it means a lot!**
+**⭐ If my work helped you — leave a star on a repo, it keeps me going!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=130&section=footer"/>
 
 </div>
