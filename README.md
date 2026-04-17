@@ -225,22 +225,8 @@ Hire        : On Upwork - Available Now
 </tr>
 </table>
 
----
 
-## <img src="https://api.iconify.design/mdi/domain.svg?color=%232563eb&width=18&height=18" alt="Industries icon" /> Industries I Serve
 
-<div align="center">
-
-| Industry | AI Solution |
-|---|---|
-| Fashion Tech | AI image generation, virtual try-on, LoRA styling |
-| E-Commerce | Product recommendation engines, support chatbots |
-| Healthcare | Medical Q&A bots, document intelligence |
-| Education Tech | AI tutors, knowledge RAG systems |
-| Customer Support | Voice AI agents, 24/7 LLM chatbots |
-| SaaS & Automation | AI workflow pipelines, autonomous agents |
-
-</div>
 
 ---
 
@@ -289,19 +275,6 @@ Hire        : On Upwork - Available Now
 
 </div>
 
----
-
-## <img src="https://api.iconify.design/mdi/source-branch.svg?color=%232563eb&width=18&height=18" alt="Contribution icon" /> Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawadahmadcs/jawadahmadcs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawadahmadcs/jawadahmadcs/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jawadahmadcs/jawadahmadcs/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
