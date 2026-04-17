@@ -248,16 +248,8 @@ Hire        : On Upwork - Available Now
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&card_width=495" />
-</td>
-<td width="50%" align="center">
-<img width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=dark&background=0b1220&ring=60a5fa&fire=f59e0b&currStreakLabel=93c5fd&border=1f2a44&border_radius=12" />
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&card_width=495" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=dark&background=0b1220&ring=60a5fa&fire=f59e0b&currStreakLabel=93c5fd&border=1f2a44&border_radius=12" />
 
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=dark&bg_color=0b1220&title_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&langs_count=8" />
