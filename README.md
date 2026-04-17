@@ -64,6 +64,42 @@ Hire        : On Upwork - Available Now
 
 ---
 
+
+## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%232563eb&width=18&height=18" alt="Statistics icon" /> GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&card_width=495" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=dark&background=0b1220&ring=60a5fa&fire=f59e0b&currStreakLabel=93c5fd&border=1f2a44&border_radius=12" />
+
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=dark&bg_color=0b1220&title_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&langs_count=8" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi/trophy-outline.svg?color=%232563eb&width=18&height=18" alt="Achievements icon" /> GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=algolia&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/mdi/pulse.svg?color=%232563eb&width=18&height=18" alt="Activity icon" /> Contribution Activity
+
+<div align="center">
+
+[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadcs&theme=react-dark&hide_border=true&radius=8&color=60a5fa&line=60a5fa&point=f59e0b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+
 ## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%232563eb&width=18&height=18" alt="Build icon" /> What I Build
 
 <table>
@@ -225,43 +261,6 @@ Hire        : On Upwork - Available Now
 </tr>
 </table>
 
-
-
-
----
-
-## <img src="https://api.iconify.design/mdi/chart-areaspline.svg?color=%232563eb&width=18&height=18" alt="Statistics icon" /> GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0b1220&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&card_width=495" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&theme=dark&background=0b1220&ring=60a5fa&fire=f59e0b&currStreakLabel=93c5fd&border=1f2a44&border_radius=12" />
-
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=dark&bg_color=0b1220&title_color=60a5fa&text_color=e2e8f0&border_color=1f2a44&border_radius=12&langs_count=8" />
-
-</div>
-
----
-
-## <img src="https://api.iconify.design/mdi/trophy-outline.svg?color=%232563eb&width=18&height=18" alt="Achievements icon" /> GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=algolia&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://api.iconify.design/mdi/pulse.svg?color=%232563eb&width=18&height=18" alt="Activity icon" /> Contribution Activity
-
-<div align="center">
-
-[![Jawad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jawadahmadcs&theme=react-dark&hide_border=true&radius=8&color=60a5fa&line=60a5fa&point=f59e0b)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 ## <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%232563eb&width=18&height=18" alt="Projects icon" /> Featured Projects
@@ -278,7 +277,7 @@ Hire        : On Upwork - Available Now
 
 ---
 
-## <img src="https://api.iconify.design/mdi/comment-quote-outline.svg?color=%232563eb&width=18&height=18" alt="Quote icon" /> Dev Quote of the Day
+## <img src="https://api.iconify.design/mdi/comment-quote-outline.svg?color=%232563eb&width=18&height=18" alt="Quote icon" /> Developer !!!
 
 <div align="center">
 
